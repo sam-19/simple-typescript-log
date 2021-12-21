@@ -1,0 +1,28 @@
+{
+  "name": "simple-typescript-log",
+  "version": "1.1.0",
+  "description": "Simple global scope log with typings",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-19/simple-typescript-log.git"
+  },
+  "keywords": [
+    "typescript",
+    "log"
+  ],
+  "author": "Sampsa Lohi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam-19/simple-typescript-log/issues"
+  },
+  "homepage": "https://github.com/sam-19/simple-typescript-log#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
